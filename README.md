@@ -1,6 +1,6 @@
 # Mobintel: CSI-based Localization
 
-This repository contains the source code for MobLoc - a CSI-based fingerprinting method. This method has been described in a paper, "MobLoc: CSI-based Location Fingerprinting with MUSIC". The paper is currently being reviewed by [IEEE Journal of Indoor and Seamless Positioning and Navigation (J-ISPIN)](https://ieee-jispin.org/).
+This repository contains the source code for MobLoc - a CSI-based fingerprinting method. This method has been described in a paper, "MobLoc: CSI-based Location Fingerprinting with MUSIC". The paper has been accepted by [IEEE Journal of Indoor and Seamless Positioning and Navigation (J-ISPIN)](https://ieee-jispin.org/).
 
 Authors:
 * [Stephan Mazokha](https://scholar.google.com/citations?user=tCc9M3EAAAAJ&hl=en&oi=ao)
